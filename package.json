@@ -1,0 +1,20 @@
+{
+  "name": "pjax",
+  "version": "0.0.1",
+  "description": "一个基于arale的pjax的增强版.",
+  "keywords": ["pjax", "history"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/windyGex/pjax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/windyGex/pjax/issues"
+  },
+  "spm": {
+    "alias": {
+      "$": "$",
+      "base": "arale/base/1.0.1/base"
+    },
+    "output": ["pjax.js"]
+  }
+}
